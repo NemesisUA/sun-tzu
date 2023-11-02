@@ -1,0 +1,11 @@
+$primary: #c73ca9;
+
+@import '../node_modules/bootstrap/scss/bootstrap.scss';
+
+h1 {
+  color: $primary;
+}
+
+.navbar {
+  height: 100px;
+}
