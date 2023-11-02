@@ -1,0 +1,14 @@
+{
+  "name": "sun-tzu",
+  "version": "1.0.0",
+  "description": "customized Bootstrap + SASS",
+  "main": "index.js",
+  "scripts": {
+    "style": "sass --watch sass/main.scss css/main.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.2"
+  }
+}
